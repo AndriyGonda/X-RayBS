@@ -1,0 +1,50 @@
+object FormMinIntensity: TFormMinIntensity
+  Left = 0
+  Height = 131
+  Top = 448
+  Width = 320
+  BorderStyle = bsToolWindow
+  Caption = 'Minimal Intensity'
+  ClientHeight = 131
+  ClientWidth = 320
+  OnShow = FormShow
+  ParentFont = True
+  PopupMode = pmExplicit
+  Position = poScreenCenter
+  LCLVersion = '1.8.4.0'
+  object SpinEditMinIntensity: TSpinEdit
+    Left = 96
+    Height = 21
+    Top = 40
+    Width = 144
+    MaxValue = 10000
+    OnChange = SpinEditMinIntensityChange
+    TabOrder = 0
+  end
+  object LabelMinIntensity: TLabel
+    Left = 104
+    Height = 13
+    Top = 16
+    Width = 80
+    Caption = 'Minimal Intensity'
+    ParentColor = False
+  end
+  object Button1: TButton
+    Left = 176
+    Height = 25
+    Top = 88
+    Width = 75
+    Caption = 'Cancel'
+    OnClick = Button1Click
+    TabOrder = 1
+  end
+  object Button2: TButton
+    Left = 64
+    Height = 25
+    Top = 88
+    Width = 75
+    Caption = 'Apply'
+    OnClick = Button2Click
+    TabOrder = 2
+  end
+end

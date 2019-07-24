@@ -1,0 +1,52 @@
+object FormAverage: TFormAverage
+  Left = 1011
+  Height = 162
+  Top = 415
+  Width = 320
+  BorderStyle = bsToolWindow
+  Caption = 'Average filter'
+  ClientHeight = 162
+  ClientWidth = 320
+  Font.Height = -13
+  Font.Name = 'Sans'
+  Font.Style = [fsBold]
+  OnShow = FormShow
+  PopupMode = pmExplicit
+  Position = poScreenCenter
+  LCLVersion = '1.8.4.0'
+  object TrackBar1: TTrackBar
+    Left = 8
+    Height = 38
+    Top = 56
+    Width = 300
+    OnChange = TrackBar1Change
+    Position = 0
+    TabOrder = 0
+  end
+  object Button1: TButton
+    Left = 184
+    Height = 25
+    Top = 112
+    Width = 75
+    Caption = 'Cancel'
+    OnClick = Button1Click
+    TabOrder = 1
+  end
+  object Button2: TButton
+    Left = 56
+    Height = 25
+    Top = 112
+    Width = 75
+    Caption = 'Apply'
+    OnClick = Button2Click
+    TabOrder = 2
+  end
+  object Label1: TLabel
+    Left = 112
+    Height = 16
+    Top = 24
+    Width = 122
+    Caption = 'Average filter level'
+    ParentColor = False
+  end
+end

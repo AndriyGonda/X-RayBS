@@ -1,0 +1,59 @@
+object FormSavitzky: TFormSavitzky
+  Left = 117
+  Height = 136
+  Top = 572
+  Width = 290
+  Caption = 'Savitzky-Golay filter'
+  ClientHeight = 136
+  ClientWidth = 290
+  Font.Height = -13
+  Font.Name = 'Sans'
+  Font.Style = [fsBold]
+  OnShow = FormShow
+  PopupMode = pmExplicit
+  Position = poScreenCenter
+  LCLVersion = '1.8.4.0'
+  object ComboBox1: TComboBox
+    Left = 104
+    Height = 24
+    Top = 48
+    Width = 100
+    ItemHeight = 16
+    ItemIndex = 0
+    Items.Strings = (
+      '5'
+      '7'
+      '9'
+      '11'
+    )
+    OnChange = ComboBox1Change
+    TabOrder = 0
+    Text = '5'
+  end
+  object Label1: TLabel
+    Left = 73
+    Height = 16
+    Top = 24
+    Width = 167
+    Caption = 'Savitzky-Golay filter level'
+    ParentColor = False
+  end
+  object Button1: TButton
+    Left = 160
+    Height = 25
+    Top = 88
+    Width = 75
+    Caption = 'Cancel'
+    OnClick = Button1Click
+    TabOrder = 1
+  end
+  object Button2: TButton
+    Left = 48
+    Height = 25
+    Top = 88
+    Width = 75
+    Caption = 'Apply'
+    OnClick = Button2Click
+    TabOrder = 2
+  end
+end
