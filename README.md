@@ -47,3 +47,16 @@ In Fig. 5. shows the appearance of one of variants of experimental spectra.
 
 ***Picture 5.*** Spectra example.
 
+If you want to increase a certain area of the spectrum for a more detailed view, with the right mouse button pressed, highlight the plot area required for zooming.
+For easy movement along the vertical and horizontal axis of the graph, the program includes vertical and horizontal scrolls.
+After loading the data for further processing of the spectrum, it must be filtered out.
+
+---
+### Data filtering
+
+To filter data, select the Filtering menu.
+**Important!!!** *Show Filtered* must be selected to display the graph.
+The filter menu looks like as follows (Fig. 6):
+
+![filtering menu](manual/6.png)
+
