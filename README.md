@@ -32,3 +32,12 @@ To work with the spectrum data, you need to download them into the program (you 
 ***Picture 2.*** ElvaX export file format.
 
 To download the spectrum data from the File menu, select Open. The file selection dialog opens, in which you need to select the desired file. For more details see Fig. 3 - 4.
+![opening file menu item](manual/3.png)
+
+***Picture 3.*** Selecting a File => Open.
+
+![open file dialog](manual/4.png)
+
+***Picture 4.*** Selecting file.
+
+
