@@ -27,4 +27,7 @@ For build the program for Linux, please contact the author of the program at: an
 ---
 ### Download Spectrum Data
 To work with the spectrum data, you need to download them into the program (you must first export the data from ElvaX to a text file, see the ElvaX User's Guide for more details).
+![ElvaX exported file format](manual/2.png)
+
+***Picture 2.*** ElvaX export file format.
 
