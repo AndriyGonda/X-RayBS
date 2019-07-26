@@ -15,6 +15,7 @@ manual adjustment;
 - Chemical elements analysis of X-ray fluorescence spectra;
 - Quantitative analysis of the contents of the elements according to the standard samples;
 - Ability to import third-party standart samples created by special a template.
+---
 The program is an third-party add-on to ElvaX 2.4 (https://elvatech.com).
 The database of the spectral series of elements is formed using the open Bruker table (https://www.bruker.com).
 The program supports the following operating systems: Windows XP, Windows 7, Windows 8 / 8.1, Windows 10, and Linux operating systems.
