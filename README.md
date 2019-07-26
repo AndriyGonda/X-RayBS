@@ -42,4 +42,8 @@ To download the spectrum data from the File menu, select Open. The file selectio
 
 After selecting a file, the spectrum graph should appear on the screen.
 **Important!!!** *Show Experimental* must be selected to display the graph.
+In Fig. 5. shows the appearance of one of variants of experimental spectra.
+![spectra example](manual/5.png)
+
+***Picture 5.*** Spectra example.
 
