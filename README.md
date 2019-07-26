@@ -20,3 +20,6 @@ The program is an third-party add-on to ElvaX 2.4 (https://elvatech.com).
 The database of the spectral series of elements is formed using the open Bruker table (https://www.bruker.com).
 The program supports the following operating systems: Windows XP, Windows 7, Windows 8 / 8.1, Windows 10, and Linux operating systems.
 For build the program for Linux, please contact the author of the program at: andriy.gonda@gmail.com.
+## Program Interface
+<img src="manual/1.png"/>
+### Picture 1. Appearance of the program.
