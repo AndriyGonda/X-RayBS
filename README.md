@@ -21,5 +21,12 @@ The database of the spectral series of elements is formed using the open Bruker 
 The program supports the following operating systems: Windows XP, Windows 7, Windows 8 / 8.1, Windows 10, and Linux operating systems.
 For build the program for Linux, please contact the author of the program at: andriy.gonda@gmail.com.
 ## Program Interface
-<img src="manual/1.png">
+<div id="container">
+ <img src="manual/1.png">
+  <div><b>Picture 1.</b> 1 - File menu, 2 - Filtering Menu, 3 - Tools, 4 - Settings, 5 - About Program, 6 - Workspace, 7 - Intensity Axis, 8 - Show experimental plot, 9 - Show filtered data, 10 - Show background line, 11 - Background processing control panel,     </div>
+</div>
+  
+
+ 
+<img src="manual/2.png">
 
