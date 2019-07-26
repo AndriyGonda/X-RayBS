@@ -40,4 +40,6 @@ To download the spectrum data from the File menu, select Open. The file selectio
 
 ***Picture 4.*** Selecting file.
 
+After selecting a file, the spectrum graph should appear on the screen.
+**Important!!!** *Show Experimental* must be selected to display the graph.
 
