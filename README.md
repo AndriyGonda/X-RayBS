@@ -23,10 +23,8 @@ For build the program for Linux, please contact the author of the program at: an
 ## Program Interface
 <div id="container">
  <img src="manual/1.png">
-  <div><b>Picture 1.</b> 1 - File menu, 2 - Filtering Menu, 3 - Tools, 4 - Settings, 5 - About Program, 6 - Workspace, 7 - Intensity Axis, 8 - Show experimental plot, 9 - Show filtered data, 10 - Show background line, 11 - Background processing control panel,     </div>
+  <div><b>Picture 1.</b> 1 - File menu, 2 - Filtering Menu, 3 - Tools, 4 - Settings, 5 - About Program, 6 - Workspace, 7 - Intensity Axis, 8 - Show experimental plot, 9 - Show filtered data, 10 - Show background line, 11 - Background processing control panel, 12 - Сhoice of background processing algorithm,13 - Interpolation button, 14 - Background substraction button, 15 - Energy Axis, 16 - Channel Axis.
+ </div>
 </div>
-  
 
- 
-<img src="manual/2.png">
 
